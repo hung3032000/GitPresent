@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Test Conflict");
         System.out.println("Test Conflict2");
         System.out.println("feature-GIT-0");
+        System.out.println("feature-GIT-1");
     }
 }
